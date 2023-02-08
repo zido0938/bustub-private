@@ -1,3 +1,6 @@
+This is mirror of https://github.com/cmu-db/bustub to be used for SCS3001 Advanced Database at Hanyang University. 
+
+<!--
 <img src="logo/bustub.svg" alt="BusTub Logo" height="200">
 
 -----------------
@@ -127,3 +130,4 @@ $ docker start -a -i bustub
 ```
 
 to open a shell within the box. You can find Bustub's code mounted at `/bustub` and run the commands mentioned above like normal.
+-->
